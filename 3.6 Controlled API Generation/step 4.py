@@ -1,5 +1,5 @@
 
-# 4. Process one individual sample
+# step 4: Process one individual sample
 def process_one_row(sample_index, row):
     # Step 5: Generate the individualized User Prompt for the current sample
     user_prompt = generate_user_prompt(row)
