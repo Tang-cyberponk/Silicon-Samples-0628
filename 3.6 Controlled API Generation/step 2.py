@@ -1,5 +1,5 @@
 
-# 2.Combine the System Prompt with the User Prompt specific to the current sample
+# step 2: Combine the System Prompt with the User Prompt specific to the current sample
 def build_messages(user_prompt: str):
     return [
         {"role": "system", "content": SYSTEM_PROMPT},
