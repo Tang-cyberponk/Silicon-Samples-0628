@@ -1,4 +1,4 @@
-Step 1: Configure the API and file paths
+# Step 1: Configure the API and file paths
 
 # Import the tools required for subsequent API calls and data processing
 import os                  # Handle file paths and environment variables
