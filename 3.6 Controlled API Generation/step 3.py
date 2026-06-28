@@ -1,6 +1,6 @@
 # Step 3: Call the large model API to retrieve the model’s response
 
-# 3. Call the large language model API
+# Call the large language model API
 def call_llm(messages):
     response = client.chat.completions.create(
         model=MODEL,
