@@ -1,4 +1,3 @@
-# step 2: the combined request information is “messages”
 
 # 2.Combine the System Prompt with the User Prompt specific to the current sample
 def build_messages(user_prompt: str):
